@@ -123,8 +123,8 @@
       </source>
     </importantfields>
     <citation>
-      <openbracket />
-      <closebracket />
+      <openbracket>[</openbracket>
+      <closebracket>]</closebracket>
       <separator>,</separator>
       <noauthor>-Artist-Author-BookAuthor-Compiler-Composer-Conductor-Counsel-Director-Editor-Interviewee-Interviewer-Inventor-Performer-ProducerName-Translator-Writer-</noauthor>
       <notitle>-Title-AlbumTitle-BookTitle-BroadcastTitle-InternetSiteTitle-PeriodicalTitle-PublicationTitle-ShortTitle-</notitle>
